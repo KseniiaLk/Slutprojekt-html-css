@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/testj"
+		},
+		{
+			"name": "html-css-slutprojekt",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-css-slutprojekt"
+	}
+}
